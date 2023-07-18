@@ -1,0 +1,279 @@
+*************************************************************
+FileName = LED SEQUENCES.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Component Center
+      File : LED SEQUENCES.GM16
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : LED SEQUENCES.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : LED SEQUENCES.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : LED SEQUENCES.GM5
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : LED SEQUENCES.GM3
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : LED SEQUENCES.GM2
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D12
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : LED SEQUENCES.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : LED SEQUENCES.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : LED SEQUENCES.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : LED SEQUENCES.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : LED SEQUENCES.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : LED SEQUENCES.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : LED SEQUENCES.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : LED SEQUENCES.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : LED SEQUENCES.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : LED SEQUENCES.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : LED SEQUENCES.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D36
+*************************************************************
+
