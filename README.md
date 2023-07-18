@@ -24,13 +24,14 @@
   
   
 
-      . Instrument M20-9990246 (you can reference the datasheet here: https://datasheet.ciiva.com/8046/315376-8046930.pdf?src-supplier=Element14)
+  . Instrument M20-9990246 (you can reference the datasheet here: https://datasheet.ciiva.com/8046/315376-8046930.pdf?src-supplier=Element14)
+  
 
    ![image](https://github.com/0406TomDev/LED-SEQUENCER-DESIGN/assets/126463997/408a518e-e208-479a-baf6-7c0e94db3b87)
   
 
 
-      . 10 Red LED (HLMP-1301) ( https://datasheet.ciiva.com/11773/0900766b800a3de2-11773734.pdf?src-supplier=Rs)
+  . 10 Red LED (HLMP-1301) ( https://datasheet.ciiva.com/11773/0900766b800a3de2-11773734.pdf?src-supplier=Rs)
   
 
   ![image](https://github.com/0406TomDev/LED-SEQUENCER-DESIGN/assets/126463997/3bb9e64a-8fc4-4624-aa58-0156f5eaa0c8)
