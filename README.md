@@ -9,6 +9,34 @@
   # 1. SCHEMATIC Drawing:
 
   -  All the element required for this project:
+
+    .  Instrument NE555DR (you can reference the datasheet here: https://datasheet.ciiva.com/46395/1874740-46395978.pdf?src-supplier=Element14)
+  
+
+    ![image](https://github.com/0406TomDev/LED-SEQUENCER-DESIGN/assets/126463997/fbd521df-5b70-451c-ae6c-af225e801b3a)
+  
+
+
+   .  Instrument CD4017BM (you can reference the datasheet here: https://datasheet.ciiva.com/6623/cd4017b-6623853.pdf?src-supplier=Digi-Key)
+  
+
+     ![image](https://github.com/0406TomDev/LED-SEQUENCER-DESIGN/assets/126463997/5c5ecb19-b66d-4e98-8711-8f82cc998aa1)
+  
+  
+
+      . Instrument M20-9990246 (you can reference the datasheet here: https://datasheet.ciiva.com/8046/315376-8046930.pdf?src-supplier=Element14)
+
+   ![image](https://github.com/0406TomDev/LED-SEQUENCER-DESIGN/assets/126463997/408a518e-e208-479a-baf6-7c0e94db3b87)
+  
+
+
+      . 10 Red LED (HLMP-1301) ( https://datasheet.ciiva.com/11773/0900766b800a3de2-11773734.pdf?src-supplier=Rs)
+  
+
+  ![image](https://github.com/0406TomDev/LED-SEQUENCER-DESIGN/assets/126463997/3bb9e64a-8fc4-4624-aa58-0156f5eaa0c8)
+
+
+
  
  # 2. ROUTING PROCEDURE: 
  
